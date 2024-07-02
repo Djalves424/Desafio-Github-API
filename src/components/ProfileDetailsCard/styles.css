@@ -1,0 +1,87 @@
+.second-card {
+    background-color: var(--color-bg-primary);
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+    padding: 10px 10px;
+    width: 902px;
+    height: 247px;
+}
+
+.profile-details-container p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.profile-details-container img {
+    width: 247px;
+    height: 247px;
+    padding-right: 25px;
+}
+
+.profile-details-container {
+    border-radius: 16px;
+    background-color: var(--color-font-quintenary);
+    margin-top: 50px;
+    display: block;
+    justify-content: space-around;
+}
+
+.profile-details-container {
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.information-text-card h2 {
+    color: var(--color-bg-secondary);
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.profile-text p {
+    color: #737373;
+    font-weight: 700;
+}
+
+.profile-text {
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.profile-followers p {
+    color: #737373;
+    font-weight: 700;
+}
+
+.profile-followers {
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.profile-location p {
+    color: #737373;
+    font-weight: 700;
+}
+
+.profile-location {
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.profile-name p {
+    color: #737373;
+    font-weight: 700;
+}
+
+.profile-name {
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
