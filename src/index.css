@@ -38,3 +38,11 @@ a:hover {
     max-width: 960px;
     margin: 0 auto;
 }
+
+.mb30 {
+    margin-bottom: 30px;
+  }
+  
+  .mt30 {
+    margin-top: 30px;
+  }

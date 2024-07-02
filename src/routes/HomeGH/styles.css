@@ -1,0 +1,17 @@
+.text-home {
+    margin: 0 30px;
+}
+
+.text-home h1 {
+    color: var(--color-font-secondary);
+    font-weight: 700;
+    font-size: 48px;
+    padding-right: 100px;
+}
+
+.text-home p {
+    color: var(--color-font-tertiary);
+    font-weight: 700;
+    font-size: 24px;
+    text-align: left;
+}
