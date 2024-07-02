@@ -11,3 +11,30 @@
     --color-font-quaternary: #BFBFBF;
     --color-font-quintenary: #F5F5F5;
 }
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+body {
+    background-color: var(--color-bg-primary);
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    color: unset;
+}
+
+.dflex {
+    display: flex;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
